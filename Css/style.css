@@ -1,0 +1,45 @@
+
+/* common css Start  here */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,ol{
+  list-style: none;
+
+}
+a{
+  text-decoration: none;
+}
+/* common css End here */
+
+/* nav css start here */
+.navBtn {
+    margin-left: auto;
+}
+
+.navBtn button {
+    padding: 12px 24px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(253, 111, 0);
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.navbar-nav{
+    gap: 65px;
+
+}
+.navbar{
+background-color:#1E1E1E !important;
+}
+ ul,li,a{
+    font-size: 16px;
+    font-weight: 500px;
+    color: #ffffff !important;
+
+}
+/* nav css End here */
